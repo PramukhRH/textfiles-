@@ -85,3 +85,103 @@ Months 7-8: Full mock tests and final revisions.
 
 
 
+1. IIT Bombay
+GATE Score: 750+
+Rank: Top 100
+Marks out of 100: 70-80
+Program: M.Tech in Computer Science & Engineering
+IIT Bombay is one of the most competitive, so a high rank and score are required.
+2. IIT Delhi
+GATE Score: 720+
+Rank: Top 150
+Marks out of 100: 65-75
+For CS, IIT Delhi looks for a high score, similar to IIT Bombay.
+3. IIT Kanpur
+GATE Score: 700+
+Rank: Top 150-200
+Marks out of 100: 65-75
+IIT Kanpur is known for its rigorous selection process, focusing on strong fundamentals in CS.
+4. IIT Madras
+GATE Score: 650+
+Rank: Top 250
+Marks out of 100: 60-70
+A slightly lower score can work for IIT Madras compared to IIT Bombay and Delhi.
+5. IIT Kharagpur
+GATE Score: 600+
+Rank: Top 300
+Marks out of 100: 55-65
+IIT Kharagpur has a relatively larger intake, so it’s more flexible with ranks and scores.
+6. IIT Roorkee
+GATE Score: 600+
+Rank: Top 300-400
+Marks out of 100: 55-65
+Roorkee typically admits students with GATE scores that are slightly lower than the top IITs.
+7. IIT Guwahati
+GATE Score: 550+
+Rank: Top 400-500
+Marks out of 100: 50-60
+IIT Guwahati is slightly more lenient but still demands a solid GATE score for CS.
+8. IIT Hyderabad
+GATE Score: 600+
+Rank: Top 250-300
+Marks out of 100: 55-65
+Hyderabad is emerging as a strong contender for CS and requires a good GATE rank.
+9. IIT BHU (Varanasi)
+GATE Score: 550+
+Rank: Top 500-600
+Marks out of 100: 50-60
+IIT BHU typically has a more relaxed cutoff compared to the older IITs.
+10. IIT Jodhpur
+GATE Score: 500+
+Rank: Top 500-700
+Marks out of 100: 50-55
+IIT Jodhpur is one of the newer IITs, so its cutoff may be slightly lower.
+
+
+1. Appear for GATE (Graduate Aptitude Test in Engineering)
+Eligibility:
+Bachelor's degree in Engineering (B.E./B.Tech) or a related field (e.g., B.Sc. in Computer Science or IT).
+There is no age limit for GATE.
+When: GATE is conducted once a year, usually in February.
+Application:
+Register on the GATE Online Application Processing System (GOAPS) portal (typically opens in September).
+Fill out the form, upload the required documents, and pay the exam fee.
+GATE Exam:
+It’s an online exam (3 hours, 65 questions, 100 marks).
+The syllabus includes topics related to Computer Science, Mathematics, and General Aptitude.
+2. GATE Result
+Result Announcement: GATE results are typically declared in March.
+You will get a GATE Score (out of 1000) and a Rank based on your performance.
+The GATE Score is valid for 3 years, meaning you can use it for admission in future years as well.
+3. Application to IITs
+After you get your GATE score, follow these steps:
+
+a) COAP (Common Offer Acceptance Portal) Registration for IITs
+COAP is the centralized platform where IITs and other top institutes post admission offers for M.Tech based on GATE scores.
+You need to register on COAP and provide your GATE details and preferences.
+When: Registration for COAP starts in April after the GATE results are declared.
+b) Apply to Individual IITs
+Each IIT will have its own M.Tech application portal.
+You must apply separately to the IITs you are interested in, filling out the M.Tech application form for each IIT.
+Upload required documents (GATE scorecard, academic transcripts, etc.) and pay the application fee.
+The application window usually opens in April/May.
+c) Selection Process
+IITs primarily select students based on their GATE score.
+For some IITs (like IIT Delhi or IIT Kanpur), there may be additional selection steps such as:
+Written Test or Interview (depends on the specialization).
+Candidates with exceptional GATE scores may be directly offered admission without interviews.
+4. COAP Admission Offers
+Rounds of Offers: Once the applications are submitted, IITs will release admission offers via the COAP portal.
+Rounds of seat allocation are conducted in May to July.
+You will get multiple rounds of offers depending on seat availability.
+Offer Acceptance: You can either Accept & Freeze an offer, Retain & Wait (wait for better options while keeping the current one), or Reject.
+After freezing the offer, you must confirm the admission by paying the required fees.
+5. Admission Confirmation and Joining
+Once you accept an offer, you will be required to:
+Pay the admission fees.
+Upload or verify your original documents (GATE scorecard, degree certificates, etc.).
+If needed, choose your accommodation (hostel).
+When to Join: The academic session typically starts in July/August.
+
+
+
