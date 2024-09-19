@@ -7,11 +7,12 @@ Data Structures and Algorithms
 Operating Systems
 Computer Networks
 Databases (DBMS)
-Theory of Computation
-Compiler Design
-Digital Logic
-Software Engineering
-General Aptitude
+Theory of Computation  this u need refer for geeks for geeks 
+Compiler Design       this u need refer for geeks for geeks 
+Digital Logic         this u need refer for geeks for geeks 
+Software Engineering  this u need refer for geeks for geeks 
+General Aptitude      this u need refer for geeks for geeks 
+
 Weightage of Subjects:
 
 General Aptitude: 15%
@@ -81,8 +82,6 @@ Study Plan Overview:
 Months 1-3: Concept building for all major subjects.
 Months 4-6: Problem-solving, previous papers, and mock tests.
 Months 7-8: Full mock tests and final revisions.
-
-
 
 
 1. IIT Bombay
