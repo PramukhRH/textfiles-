@@ -1,0 +1,33 @@
+FULL STACK DEVELOPMENT
+
+first u need git account and then u need install visual code 
+
+for more please visit  info https://www.youtube.com/watch?v=ON-Z1iD6Y-c 
+
+REACT JS FRONTEND ,ASP.NET,NODEJS FOR STYLING BOOTSTRAP FOR STYLING
+1)insalltision 
+->first vs code community 
+->then  u need select there u need select ASP.NET with web development ,.net desktop development ,.net cross-platform development after that u need click on instsall button 
+-> then u need to visual studio code  
+->  then install to postman used to test api
+-> then install to SSMS used to  database and run the installer file. after this here u need insatll SQL server managemet studio using microsoft aszure  we need to create localhost by using this link micrsoft.com/en-ie/sql-server/sql-server-downloads in this u can assign ur localhost
+-> after that u need dowload developer version 
+-> installl node.js
+
+
+
+
+first need to build backend 
+
+
+how to install node 
+how to install react  
+how to insatll mysql and how to give connection  by creating server 
+
+https://dev.mysql.com/downloads/installer/ for sql 
+
+https://nodejs.org/en/download for node
+
+https://www.npmjs.com/package//mysql for npm 
+
+how to do connection with data base and how to add node in vs

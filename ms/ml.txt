@@ -1,0 +1,31 @@
+need to learn and concentrate on 
+1)
+Mistake Bounded Learning (1 week)
+Decision Trees; PAC Learning (1 week)
+Cross Validation; VC Dimension; Perceptron (1 week)
+Linear Regression; Gradient Descent (1 week)
+Boosting (.5 week)
+PCA; SVD (1.5 weeks)
+Maximum likelihood estimation (1 week)
+Bayesian inference (1 week)
+K-means and EM (1-1.5 week)
+ Multivariate models and graphical models (1-1.5 week)
+Neural networks; generative adversarial networks (GAN) (1-1.5 weeks)
+2)
+Convex sets, convex functions, Convex Programs (1 week)
+Linear Programs (LPs), Geometry of LPs, Duality in LPs (1 week)
+Weak duality, Strong duality, Complementary slackness (1 week)
+LP duality: Robust Linear Programming, Two person 0-sum games, Max-flow min-cut (1 week)
+Semidefinite programming, Duality in convex programs, Strong duality (1 week)
+Duality and Sensitivity, KKT Conditions, Convex Duality Examples: Maximum Entropy (1 week)
+Convex Duality: SVMs and the Kernel Trick, Convex conjugates, Gradient descent (1 week)
+Line search, Gradient Descent: Convergence rate and step size, Gradient descent and strong convexity (1 week)
+Frank Wolfe method, Coordinate descent, Subgradients (1 week)
+Subgradient descent, Proximal gradient descent, Newton method (1 week)
+Newton method convergence, Quasi-newton methods, Barrier method (1 week)
+Accelerated Gradient descent, Stochastic gradient descent (SGD), Mini-batch SGD, Variance reduction in SGD (1 week)
+
+https://utexas.app.box.com/s/0c5cahw2hczzccebheqpzb5xxdkus8m8 u can abel to learn wt are basic requirements 
+
+
+    

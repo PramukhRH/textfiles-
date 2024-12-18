@@ -1,0 +1,95 @@
+    Homepage:
+        Overview of the LMS features.
+        Navigation to different sections (Courses, My Courses, About Us, Contact, etc.).
+        Sign-in/up options for users.
+
+    Courses Section:
+        Courses Catalog Page:
+            List of available courses with search and filter options.
+            Course cards displaying key information (title, description, instructor, rating, etc.).
+            Enroll button for each course.
+        Course Details Page:
+            Detailed information about the selected course (description, instructor details, curriculum, etc.).
+            Option to enroll in the course.
+            Access to course materials (videos, documents, quizzes, etc.).
+
+    My Courses Section:
+        My Courses Page:
+            List of courses enrolled by the user.
+            Course cards displaying progress, completion status, etc.
+            Option to resume or access course materials.
+        Course Progress Page:
+            Details of the user's progress in each enrolled course.
+            Visual indicators (progress bars, charts, etc.) showing completion status.
+            Option to view assessment scores, certificates, etc.
+
+    User Profile:
+        Profile Settings Page:
+            Editable fields for updating personal information, password, notification preferences, etc.
+            Option to view/edit profile details and preferences.
+        Progress Tracking:
+            Dashboard displaying overall course progress, achievements, etc.
+            Charts/graphs to visualize progress over time.
+
+    Additional Pages:
+        About Us: Information about the LMS, company, mission, team, etc.
+        Contact Us: Contact form or contact details for user inquiries and support.
+        Privacy Policy and Terms of Service: Legal documents outlining user rights, data usage policies, etc.
+
+list of course 
+
+Introduction to Healthcare Management:
+
+    Overview of healthcare systems and organizational structures.
+    Principles of healthcare administration and leadership.
+    Healthcare policy and regulatory frameworks.
+    Financial management in healthcare settings.
+
+Medical Terminology:
+
+    Introduction to the language of medicine.
+    Understanding medical prefixes, suffixes, and root words.
+    Common medical abbreviations and acronyms.
+    Interpretation of medical records and documentation.
+
+Clinical Skills Training:
+
+    Basic patient assessment techniques (vital signs, history taking, physical examination).
+    Infection control and hygiene practices.
+    Wound care and dressing techniques.
+    Medication administration and dosage calculations.
+
+Healthcare Ethics and Law:
+
+    Ethical principles in healthcare decision-making.
+    Patient rights and confidentiality.
+    Legal issues in healthcare practice (e.g., informed consent, malpractice).
+    Ethical dilemmas in medical research and treatment.
+
+Health Information Management:
+
+    Introduction to electronic health records (EHR) systems.
+    Data collection, storage, and retrieval in healthcare settings.
+    Privacy and security considerations in health information management.
+    Health informatics and technology trends in healthcare.
+
+Patient Education and Communication:
+
+    Strategies for effective patient communication.
+    Health literacy and patient empowerment.
+    Counseling techniques for promoting behavior change.
+    Providing culturally competent care.
+
+Chronic Disease Management:
+
+    Overview of common chronic conditions (diabetes, hypertension, asthma, etc.).
+    Disease prevention and health promotion strategies.
+    Self-management skills for patients with chronic illnesses.
+    Collaborative care approaches involving healthcare teams.
+
+Emergency Response and First Aid:
+
+    Basic life support (CPR) techniques.
+    First aid for common medical emergencies (choking, heart attack, stroke, etc.).
+    Trauma assessment and management.
+    Disaster preparedness and response protocols.

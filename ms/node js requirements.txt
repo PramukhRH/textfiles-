@@ -1,0 +1,8 @@
+config database connection
+controller backend code query
+helpers token opening 
+middleware authentaction and aouthorization 
+models database structure 
+routes url calling 
+.gitignore 
+index.js server creation 
